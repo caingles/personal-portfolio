@@ -1,0 +1,26 @@
+{
+  "name": "portafolio_de_christian_ingles",
+  "version": "1.0.0",
+  "description": "Este proyecto es un portafolio web para demostrar la formacón academica, trayectoria laboral y habilidades de Christian Inglés",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caingles/personal-portfolio.git"
+  },
+  "keywords": [
+    "Portafolio",
+    "Desarrollo",
+    "Web",
+    "Desarrollo",
+    "Front End"
+  ],
+  "author": "Christian Inglés",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caingles/personal-portfolio/issues"
+  },
+  "homepage": "https://github.com/caingles/personal-portfolio#readme"
+}
