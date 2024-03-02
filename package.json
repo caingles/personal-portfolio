@@ -4,7 +4,8 @@
   "description": "Este proyecto es un portafolio web para demostrar la formacón academica, trayectoria laboral y habilidades de Christian Inglés",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:scss": "node-sass src/assets/scss/main.scss src/css/index.css --watch"
   },
   "repository": {
     "type": "git",
